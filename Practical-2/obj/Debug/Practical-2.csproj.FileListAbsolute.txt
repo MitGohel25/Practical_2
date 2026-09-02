@@ -1,0 +1,7 @@
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\bin\Debug\Practical-2.exe.config
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\bin\Debug\Practical-2.exe
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\bin\Debug\Practical-2.pdb
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\obj\Debug\Practical-2.csproj.AssemblyReference.cache
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\obj\Debug\Practical-2.csproj.CoreCompileInputs.cache
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\obj\Debug\Practical-2.exe
+C:\Users\mitgo\OneDrive\Desktop\sem-5\.Net\Practical-2\obj\Debug\Practical-2.pdb
